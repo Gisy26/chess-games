@@ -58,4 +58,4 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 ---
 
 ## 🖼️ Dashboard
-![Dashboard](ruta/a/tu/imagen.png)
+![github](capturas/captura 1.jpg)
