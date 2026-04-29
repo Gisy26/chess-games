@@ -49,13 +49,32 @@ El análisis incluye limpieza, transformación, creación de medidas, visualizac
 
 ## 💡 Insights
 - Rendimiento histórico con picos superiores a 1600 de ELO en Blitz y 1700 en partidas rápidas. Baja actividad entre 2022 y 2025, con retorno en 2026.  
-- Mejor desempeño en aperturas y defensas abiertas  
-- El rendimiento está más relacionado con el control del tiempo que con las aperturas  
+- Mejor desempeño en aperturas y defensas abiertas.  
+- El rendimiento está más relacionado con el control del tiempo que con las aperturas.  
 - Las victorias contra rivales más fuertes ocurren principalmente en Blitz, aunque también es donde se concentran más errores decisivos  
-- Jugando `e4` y la apertura española se obtiene un win rate del 50%, mientras que respondiendo `d5` ante `d4` se logra un 55%  
-- Alto porcentaje de partidas perdidas por tiempo, especialmente en Blitz, lo que indica problemas en la gestión del tiempo  
+- Jugando `e4` y la apertura española se obtiene un win rate del 50%, y respondiendo `d5` ante `d4` se logra un 55%  
+- Alto porcentaje de partidas perdidas por tiempo, especialmente en Blitz, lo que indica problemas en la gestión del tiempo.  
 
 ---
 
 ## 🖼️ Dashboard
-![Dashboard](capturas/captura%1.jpg)
+
+Dashboard general
+
+![Dashboard](capturas/captura1.jpg)
+
+![Dashboard](capturas/captura2.jpg)
+
+
+Blitz
+
+![Dashboard](capturas/captura3.jpg)
+
+![Dashboard](capturas/captura4.jpg)
+
+
+Rapid
+
+![Dashboard](capturas/captura5.jpg)
+
+![Dashboard](capturas/captura6.jpg)
